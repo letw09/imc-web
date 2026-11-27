@@ -1,2 +1,11 @@
 # Ignorar uma pasta inteira
 node_modules/
+.vercel/
+playwright-report/
+test-results/
+coverage/
+.env
+.env.*
+.DS_Store
+.vercel
+.env*
